@@ -1,6 +1,5 @@
-Joshua X Mechem  
-# Object-Oriented-Programming
-SouthWest Technical College  
+ # Object-Oriented-Programming at Southwest Technical Collage
+Joshua X Mechem
 
 About
 - Veteran
