@@ -1,6 +1,7 @@
 Joshua X Mechem  
 # Object-Oriented-Programming
 SouthWest Technical College  
+
 About
 - Veteran
 - Father of Three
