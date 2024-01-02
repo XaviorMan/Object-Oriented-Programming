@@ -1,6 +1,6 @@
-# Joshua X Mechem  
+Joshua X Mechem  
 # Object-Oriented-Programming
-# SouthWest Technical College  
+SouthWest Technical College  
 I am a veteran who is also the father of three beautiful kids.
 This repository exists to hold assignments for the class Object-Oriented Programming. At this time, the only folder it holds is the README.md file.  
 
