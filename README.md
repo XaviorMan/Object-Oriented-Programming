@@ -1,2 +1,3 @@
 # Object-Oriented-Programming
-Joshua X Mechem
+Joshua X Mechem 
+SouthWest Technical College
