@@ -1,4 +1,5 @@
-Joshua X Mechem
+Joshua X Mechem  
+## I am a veteran who is also the father of three beautiful kids.
 # Object-Oriented-Programming
 SouthWest Technical College  
 
