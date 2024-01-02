@@ -1,4 +1,4 @@
- # Object-Oriented-Programming at Southwest Technical Collage
+## Object-Oriented-Programming at Southwest Technical Collage
 Joshua X Mechem
 
 About
